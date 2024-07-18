@@ -18,7 +18,7 @@ Der Prozess der Analyse einer neuen Krankheit, wie einer globalen Pandemie, ist 
 
 **Links:**
 * [Notebook](https://colab.research.google.com/drive/10CGoIm-EKQHxtJYMWyEhfd2HZitGDenh?usp=sharing)
-* [Medium](https://medium.com/@alexandrewildtgraziani/covid19-datenvisualisierung-3b2d1de1cef3)
+* [Medium](https://medium.com/@alexandrewildtgraziani/predicting-churn-for-bank-customers-3fd06e8c9864)
 * [Blog](https://sigmoidal.ai)
 
 ### Datenbeschffaung
