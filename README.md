@@ -11,13 +11,12 @@ churn
 <sub>*Lead Data Scientist*</sub>
 
 
-
-Der Prozess der Analyse einer neuen Krankheit, wie einer globalen Pandemie, ist unglaublich herausfordernd. Der Mangel an vorherigem Wissen über die Krankheit macht es schwierig, ihre Verbreitung und Auswirkungen auf die öffentliche Gesundheit zu verstehen. Darüber hinaus gibt es Konflikte zwischen den von Bundes- und Landesregierungen bereitgestellten Daten sowie von inoffiziellen Quellen. Regierungen können politische und wirtschaftliche Gründe haben, um Daten auf bestimmte Weise zu präsentieren, was zu Diskrepanzen in den offiziellen Statistiken führt. Unterschiede in den Methoden der Datensammlung und in den Definitionen von Fällen tragen ebenfalls zur Diskrepanz in den Informationen bei. In dieser herausfordernden Situation ist es für Analysten und Forscher entscheidend, rigorose Methoden, zuverlässige Quellen und transparente Ansätze bei der Analyse von Daten zu neuen Krankheiten zu verwenden. Internationale Zusammenarbeit, Transparenz bei den Datensammelprozessen und effektive Kommunikation sind entscheidend, um eine aufkommende Krankheit angemessen zu verstehen und darauf zu reagieren.
+A rotatividade de clientes, ou seja, a perda de clientes de uma empresa, é uma métrica importante para empresas com fontes de receita recorrentes. Para uma gestão eficaz do relacionamento com o cliente, é crucial entender os motivos da rotatividade de clientes e prever futuras perdas de clientes.
 
 
 
 **Links:**
-* [Notebook](https://colab.research.google.com/drive/10CGoIm-EKQHxtJYMWyEhfd2HZitGDenh?usp=sharing)
+* [Notebook](https://colab.research.google.com/drive/1PBrKNiqOjyvCPwTT9w0DVwXbkLCPm-FL?usp=sharing)
 * [Medium](https://medium.com/@alexandrewildtgraziani/predicting-churn-for-bank-customers-3fd06e8c9864)
 * [Blog](https://sigmoidal.ai)
 
