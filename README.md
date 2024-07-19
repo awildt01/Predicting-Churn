@@ -56,10 +56,11 @@ Graças ao Big Data, é possível prever a rotatividade de clientes usando apren
 
 + Matplotlib
 + Plotly
-+ Bokeh
-+ Bar_chart_race
-+ Folium
-+ Geopy
++ Seaborn
++ Numpy
++ Pandas
++ Sklearn
++ Statsmodels
 
 
 
