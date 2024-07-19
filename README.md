@@ -5,7 +5,7 @@
 # Predicting-Churn
 churn
 
-![image](https://github.com/awildt01/Predicting-Churn/blob/main/2023-03-20_18h30_56.png)
+![image](https://github.com/awildt01/Predicting-Churn/blob/main/1_WqId29D5dN_8DhiYQcHa2w.png)
 
 # Alexandre Wildt Graziani 
 <sub>*Lead Data Scientist*</sub>
