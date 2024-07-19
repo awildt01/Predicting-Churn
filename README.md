@@ -62,7 +62,7 @@ Graças ao Big Data, é possível prever a rotatividade de clientes usando apren
 + Sklearn
 + Statsmodels
 + Information Value and Weight of Evidence
-+ GML
++ Generalized linear model
 
 
 
