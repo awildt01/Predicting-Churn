@@ -33,23 +33,15 @@ O conjunto de dados Telco Churn é frequentemente utilizado na área de análise
 ### Projekt 
 
 
+Este projeto mostra uma análise preditiva de rotatividade utilizando o conjunto de dados de demonstração “Telco Churn”. Ele apresenta os resultados da análise e fornece exemplos de insights para minimizar a rotatividade de clientes. O foco da análise é ajudar as empresas a identificar clientes que correm o risco de abandonar o serviço e tomar medidas proativas para mantê-los.
 
-Dieses Projekt wird in zwei Phasen unterteilt sein. In der ersten Phase werden COVID-19-Daten aus verschiedenen Ländern verwendet, insbesondere aus China, den USA, Brasilien und Deutschland. In der zweiten Phase werden wir die Ergebnisse nationaler Beschränkungen sehen, hauptsächlich in Brasilien. Es wurden auch neue Merkmale berechnet, wie die Infektionsrate und die Letalitätsrate in Brasilien. Unter Verwendung von Datenvisualisierungstechniken werden spezifische analytische Fragen behandelt. Zuerst werden die Datensätze vorbereitet, und dann werden die folgenden Punkte untersucht.
+Importância da previsão de rotatividade de clientes Os impactos da taxa de rotatividade são evidentes, por isso precisamos de estratégias para reduzi-la. A previsão da taxa de rotatividade é uma ótima maneira de criar campanhas de marketing proativas que visam os clientes prestes a abandonar o serviço.
 
+Graças ao Big Data, é possível prever a rotatividade de clientes usando aprendizado de máquina. O aprendizado de máquina e a análise de dados são métodos poderosos para identificar e prever a rotatividade. Na previsão de rotatividade, você também pode:
 
-
-
-1. Wie verbreitet sich das Virus in diesen Ländern?
-
-2. Letalitätsrate: Der Prozentsatz der bestätigten COVID-19-Fälle, die tödlich enden.
-
-3. Haben nationale Beschränkungen und Selbstisolationsmaßnahmen aufgrund von COVID-19 einen tatsächlichen Einfluss auf die Übertragung von COVID-19?
-
-4. Visualisierung der Auswirkungen des Lockdowns auf die Sterblichkeitsrate.
-  
-5. Beziehung zwischen bestätigten Fällen und bestätigten Todesfällen.
-
-6. Inzidenz: Die Anzahl neuer Fälle pro eine spezifische Bevölkerung (normalerweise pro 100.000 Einwohner) in einem bestimmten Zeitraum.
+1. Identificar clientes em risco,
+2. Identificar os pontos fracos dos clientes,
+3. Identificar estratégias/métodos para reduzir a rotatividade e aumentar a fidelidade dos clientes.
 
 
 
