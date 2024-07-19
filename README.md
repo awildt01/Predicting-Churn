@@ -23,15 +23,10 @@ O objetivo da previsão de rotatividade é identificar esses clientes em risco d
 * [Blog](https://sigmoidal.ai)
 
 ### Datenbeschffaung
-Die Daten wurden von der Website Our World in Data bezogen, einer gemeinnützigen Institution mit Sitz an der Oxford Martin School, die Teil der Fakultät für Sozialwissenschaften der Universität Oxford ist. Ihr Ziel ist es, Daten zu Themen wie Bevölkerungsentwicklung, Ernährung, Technologie, Krieg, Wohlstand, Medien und Politik bereitzustellen, wobei demografische, wirtschaftliche, geografische und kulturelle Aspekte berücksichtigt werden.
-Our World in Data bezieht seine Daten von internationalen Institutionen oder statistischen Ämtern wie der OECD, der Weltbank und UN-Einrichtungen. Darüber hinaus werden offizielle Daten von Regierungsquellen verwendet. Beispielsweise werden unsere Datensätze zur Impfung und COVID-19-Tests aus den neuesten offiziellen Zahlen zusammengestellt, die von Regierungen und Gesundheitsministerien weltweit veröffentlicht werden.
+O conjunto de dados Telco Churn é frequentemente utilizado na área de análise de rotatividade de clientes. Ele contém informações sobre os clientes de uma empresa de telecomunicações e seu comportamento, incluindo se eles abandonaram o serviço ou não.
 
-* [Link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
+* [Link](https://raw.githubusercontent.com/carlosfab/dsnp2/master/datasets/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 
-
-Außerdem werden wir eine COVID-19-Karte von Brasilien erstellen. Dazu werde ich die Bibliothek Folium verwenden. Die Datenbasis wird die des Gesundheitsministeriums sein, wo wir Adressen in geografische Koordinaten (Breitengrad und Längengrad) umwandeln werden.
-
-* [Link](https://nbviewer.org/github/awildt01/Airbnb_Berlin-/blob/main/Airbnb_%28Berlin%29.ipynb)
 
 
 
