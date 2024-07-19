@@ -11,7 +11,9 @@ churn
 <sub>*Lead Data Scientist*</sub>
 
 
-A rotatividade de clientes, ou seja, a perda de clientes de uma empresa, é uma métrica importante para empresas com fontes de receita recorrentes. Para uma gestão eficaz do relacionamento com o cliente, é crucial entender os motivos da rotatividade de clientes e prever futuras perdas de clientes.
+A rotatividade de clientes, ou seja, a perda de clientes de uma empresa, é uma métrica importante para empresas com fontes de receita recorrentes. Para uma gestão eficaz do relacionamento com o cliente, é crucial entender os motivos da rotatividade de clientes e prever futuras perdas de clientes. A rotatividade de clientes afeta a rentabilidade, especialmente em setores onde a receita depende fortemente de assinaturas (por exemplo, bancos, provedores de serviços de Internet, empresas de TV por assinatura, seguradoras, etc.). Estima-se que conquistar um novo cliente pode custar até cinco vezes mais do que reter um cliente existente. Portanto, a análise de rotatividade de clientes é essencial para uma empresa. O objetivo deste projeto é entender e prever a rotatividade de clientes para uma empresa.
+
+O objetivo da previsão de rotatividade é identificar esses clientes em risco de deixar a empresa antes que eles realmente saiam e tomar medidas preventivas para mantê-los. Isso pode ser significativo, pois a aquisição de novos clientes costuma ser mais cara do que a retenção dos clientes existentes.
 
 
 
