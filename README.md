@@ -18,7 +18,7 @@ O objetivo da previsão de rotatividade é identificar esses clientes em risco d
 
 
 **Links:**
-* [Notebook](https://colab.research.google.com/drive/1PBrKNiqOjyvCPwTT9w0DVwXbkLCPm-FL?usp=sharing)
+* [Notebook](https://colab.research.google.com/drive/1bTC53zwlYU5jF4LkFO_oTXsfWcbNgXQd#scrollTo=jYHvwb2Ma3Lk&uniqifier=2)
 * [Medium](https://medium.com/@alexandrewildtgraziani/predicting-customer-churn-c4933e4b9f85)
 * [Blog](https://sigmoidal.ai)
 
