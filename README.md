@@ -34,7 +34,7 @@ O conjunto de dados Telco Churn é frequentemente utilizado na área de análise
 
 Dieses Projekt zeigt eine prädiktive Analyse der Kundenabwanderung anhand des Demonstrationsdatensatzes „Telco Churn“. Es präsentiert die Ergebnisse der Analyse und liefert Beispiele für Erkenntnisse zur Minimierung der Kundenabwanderung. Der Schwerpunkt der Analyse liegt darauf, Unternehmen dabei zu helfen, Kunden zu identifizieren, die Gefahr laufen, den Service zu verlassen, und proaktive Maßnahmen zu ergreifen, um sie zu halten.
 
-Bedeutung der Vorhersage von Kundenabwanderung: Die Auswirkungen einer hohen Abwanderungsrate sind offensichtlich, daher benötigen wir Strategien, um sie zu reduzieren. Die Vorhersage der Abwanderungsrate ist eine ausgezeichnete Möglichkeit, proaktive Marketingkampagnen zu erstellen, die auf Kunden abzielen, die kurz davor stehen, den Service zu verlassen.
+Die Auswirkungen einer hohen Abwanderungsrate sind offensichtlich, daher benötigen wir Strategien, um sie zu reduzieren. Die Vorhersage der Abwanderungsrate ist eine ausgezeichnete Möglichkeit, proaktive Marketingkampagnen zu erstellen, die auf Kunden abzielen, die kurz davor stehen, den Service zu verlassen.
 
 Dank Big Data ist es möglich, die Kundenabwanderung mithilfe von maschinellem Lernen vorherzusagen. Maschinelles Lernen und Datenanalyse sind leistungsstarke Methoden, um die Abwanderung zu identifizieren und vorherzusagen. Bei der Vorhersage von Kundenabwanderung können Sie auch:
 
