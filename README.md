@@ -23,7 +23,8 @@ Das Ziel der Vorhersage von Kundenabwanderung besteht darin, gefährdete Kunden 
 * [Blog](https://sigmoidal.ai)
 
 ### Datenbeschffaung
-O conjunto de dados Telco Churn é frequentemente utilizado na área de análise de rotatividade de clientes. Ele contém informações sobre os clientes de uma empresa de telecomunicações e seu comportamento, incluindo se eles abandonaram o serviço ou não.
+
+Der Datensatz "Telco Churn" wird häufig im Bereich der Analyse von Kundenabwanderung verwendet. Er enthält Informationen über die Kunden eines Telekommunikationsunternehmens und deren Verhalten, einschließlich der Frage, ob sie den Service verlassen haben oder nicht.
 
 * [Link](https://raw.githubusercontent.com/carlosfab/dsnp2/master/datasets/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 
