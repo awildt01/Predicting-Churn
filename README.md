@@ -11,9 +11,9 @@ churn
 <sub>*Lead Data Scientist*</sub>
 
 
-A rotatividade de clientes, ou seja, a perda de clientes de uma empresa, é uma métrica importante para empresas com fontes de receita recorrentes. Para uma gestão eficaz do relacionamento com o cliente, é crucial entender os motivos da rotatividade de clientes e prever futuras perdas de clientes. A rotatividade de clientes afeta a rentabilidade, especialmente em setores onde a receita depende fortemente de assinaturas (por exemplo, bancos, provedores de serviços de Internet, empresas de TV por assinatura, seguradoras, etc.). Estima-se que conquistar um novo cliente pode custar até cinco vezes mais do que reter um cliente existente. Portanto, a análise de rotatividade de clientes é essencial para uma empresa. O objetivo deste projeto é entender e prever a rotatividade de clientes para uma empresa.
+Die Kundenabwanderung, also der Verlust von Kunden eines Unternehmens, ist eine wichtige Kennzahl für Unternehmen mit wiederkehrenden Einnahmequellen. Für ein effektives Kundenbeziehungsmanagement ist es entscheidend, die Gründe für die Kundenabwanderung zu verstehen und zukünftige Kundenverluste vorherzusagen. Kundenabwanderung beeinflusst die Rentabilität, insbesondere in Branchen, in denen die Einnahmen stark von Abonnements abhängen (z. B. Banken, Internetdienstanbieter, Kabelfernsehunternehmen, Versicherungen usw.). Es wird geschätzt, dass die Gewinnung eines neuen Kunden bis zu fünfmal teurer sein kann als die Bindung eines bestehenden Kunden. Daher ist die Analyse der Kundenabwanderung für ein Unternehmen unerlässlich. Das Ziel dieses Projekts ist es, die Kundenabwanderung zu verstehen und vorherzusagen.
 
-O objetivo da previsão de rotatividade é identificar esses clientes em risco de deixar a empresa antes que eles realmente saiam e tomar medidas preventivas para mantê-los. Isso pode ser significativo, pois a aquisição de novos clientes costuma ser mais cara do que a retenção dos clientes existentes.
+Das Ziel der Vorhersage von Kundenabwanderung besteht darin, gefährdete Kunden zu identifizieren, bevor sie das Unternehmen tatsächlich verlassen, und präventive Maßnahmen zu ergreifen, um sie zu halten. Dies kann von großer Bedeutung sein, da die Gewinnung neuer Kunden in der Regel teurer ist als die Bindung bestehender Kunden.
 
 
 
@@ -32,22 +32,15 @@ O conjunto de dados Telco Churn é frequentemente utilizado na área de análise
 
 ### Projekt 
 
+Dieses Projekt zeigt eine prädiktive Analyse der Kundenabwanderung anhand des Demonstrationsdatensatzes „Telco Churn“. Es präsentiert die Ergebnisse der Analyse und liefert Beispiele für Erkenntnisse zur Minimierung der Kundenabwanderung. Der Schwerpunkt der Analyse liegt darauf, Unternehmen dabei zu helfen, Kunden zu identifizieren, die Gefahr laufen, den Service zu verlassen, und proaktive Maßnahmen zu ergreifen, um sie zu halten.
 
-Este projeto mostra uma análise preditiva de rotatividade utilizando o conjunto de dados de demonstração “Telco Churn”. Ele apresenta os resultados da análise e fornece exemplos de insights para minimizar a rotatividade de clientes. O foco da análise é ajudar as empresas a identificar clientes que correm o risco de abandonar o serviço e tomar medidas proativas para mantê-los.
+Bedeutung der Vorhersage von Kundenabwanderung: Die Auswirkungen einer hohen Abwanderungsrate sind offensichtlich, daher benötigen wir Strategien, um sie zu reduzieren. Die Vorhersage der Abwanderungsrate ist eine ausgezeichnete Möglichkeit, proaktive Marketingkampagnen zu erstellen, die auf Kunden abzielen, die kurz davor stehen, den Service zu verlassen.
 
-Importância da previsão de rotatividade de clientes Os impactos da taxa de rotatividade são evidentes, por isso precisamos de estratégias para reduzi-la. A previsão da taxa de rotatividade é uma ótima maneira de criar campanhas de marketing proativas que visam os clientes prestes a abandonar o serviço.
-
-Graças ao Big Data, é possível prever a rotatividade de clientes usando aprendizado de máquina. O aprendizado de máquina e a análise de dados são métodos poderosos para identificar e prever a rotatividade. Na previsão de rotatividade, você também pode:
+Dank Big Data ist es möglich, die Kundenabwanderung mithilfe von maschinellem Lernen vorherzusagen. Maschinelles Lernen und Datenanalyse sind leistungsstarke Methoden, um die Abwanderung zu identifizieren und vorherzusagen. Bei der Vorhersage von Kundenabwanderung können Sie auch:
 
 1. Identificar clientes em risco,
 2. Identificar os pontos fracos dos clientes,
 3. Identificar estratégias/métodos para reduzir a rotatividade e aumentar a fidelidade dos clientes.
-
-
-
-
-
-
 
 
 
