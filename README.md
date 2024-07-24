@@ -18,7 +18,7 @@ Das Ziel der Vorhersage von Kundenabwanderung besteht darin, gefährdete Kunden 
 
 
 **Links:**
-* [Notebook](https://colab.research.google.com/drive/1bTC53zwlYU5jF4LkFO_oTXsfWcbNgXQd#scrollTo=jYHvwb2Ma3Lk&uniqifier=2)
+* [Notebook](https://colab.research.google.com/drive/1bTC53zwlYU5jF4LkFO_oTXsfWcbNgXQd?usp=sharing)
 * [Medium](https://medium.com/@alexandrewildtgraziani/predicting-customer-churn-c4933e4b9f85)
 * [Blog](https://sigmoidal.ai)
 
