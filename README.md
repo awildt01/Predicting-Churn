@@ -39,9 +39,9 @@ Die Auswirkungen einer hohen Abwanderungsrate sind offensichtlich, daher benöti
 
 Dank Big Data ist es möglich, die Kundenabwanderung mithilfe von maschinellem Lernen vorherzusagen. Maschinelles Lernen und Datenanalyse sind leistungsstarke Methoden, um die Abwanderung zu identifizieren und vorherzusagen. Bei der Vorhersage von Kundenabwanderung können Sie auch:
 
-1. Identificar clientes em risco,
-2. Identificar os pontos fracos dos clientes,
-3. Identificar estratégias/métodos para reduzir a rotatividade e aumentar a fidelidade dos clientes.
+1. Kunden in Risiko identifizieren,
+2. Schwachstellen der Kunden identifizieren,
+3. Strategien/Methoden zur Reduzierung der Abwanderung und zur Steigerung der Kundenbindung identifizieren.
 
 
 
