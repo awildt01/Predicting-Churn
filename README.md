@@ -79,6 +79,6 @@ Sehen Sie sich die veröffentlichten Tutorials von Sigmoidal an:
 * **Umgang mit fehlenden Daten in Pandas::** https://bit.ly/31KWSMN
 * **XGBoost: Lerne diesen Machine-Learning-Algorithmus in Python kennen:** https://bit.ly/2UbRhws
 * **Erstellung einer Wordcloud in Pytho:** https://bit.ly/2OxsphM
-* **CUmgang mit unausgewogenen Daten:** https://bit.ly/2ZlaNsV
+* **Umgang mit unausgewogenen Daten:** https://bit.ly/2ZlaNsV
 
 ---
