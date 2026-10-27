@@ -70,15 +70,15 @@ Dank Big Data ist es möglich, die Kundenabwanderung mithilfe von maschinellem L
 ### Insight
 
 
-### Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+### Projekte:
+Sehen Sie sich die veröffentlichten Tutorials von Sigmoidal an:
 
 * **Visualisierung von Daten aus der Fußball-Bundesliga 2011-2012:** http://bit.ly/3Smgnsn
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Wie man eine lineare Regression mit Python implementiert:** https://bit.ly/2Li5pzY
+* **Data Science: Untersuchung des Untergangs der Titanic:** https://bit.ly/2Ubr5SH
+* **Umgang mit fehlenden Daten in Pandas::** https://bit.ly/31KWSMN
+* **XGBoost: Lerne diesen Machine-Learning-Algorithmus in Python kennen:** https://bit.ly/2UbRhws
+* **Erstellung einer Wordcloud in Pytho:** https://bit.ly/2OxsphM
+* **CUmgang mit unausgewogenen Daten:** https://bit.ly/2ZlaNsV
 
 ---
